@@ -6,4 +6,4 @@ Parte I - Simulated Annealing (SA)
   
 Parte II- Particle Swarm Optimization
 
-  Dado a mesma função, foi implementad o algoritmo do Particle Swarm Optimization (PSO) para encontrar o mínimo global dessa função
+  Dado a mesma função, foi implementado o algoritmo do Particle Swarm Optimization (PSO) para encontrar o mínimo global dessa função
