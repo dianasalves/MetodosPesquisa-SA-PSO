@@ -1,4 +1,4 @@
-# Métodos Pesquisa SA e PSO
+# Métodos de Pesquisa SA e PSO
 
 Parte I - Simulated Annealing (SA)
 
